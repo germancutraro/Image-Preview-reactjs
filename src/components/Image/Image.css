@@ -1,0 +1,11 @@
+.Image-Preview {
+  width: auto;
+  height: auto;
+  border: 10px dashed #fff;
+  background-size: contain;
+  margin: 5rem;
+}
+
+.img {
+  max-width: 30vw;
+}

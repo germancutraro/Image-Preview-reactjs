@@ -1,0 +1,10 @@
+.Image-Input {
+  padding: 1.8rem 3rem;
+  width: 100%;
+  font-size: 1.2rem;
+  font-weight: inherit;
+  line-height: 1.6rem;
+  border: none;
+  border-radius: 0.4rem;
+  outline: none;
+}
